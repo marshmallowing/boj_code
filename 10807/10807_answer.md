@@ -1,4 +1,4 @@
-# 10807
+# 10807_python
 
 ### li=list(map(int, input().split()))
 map : 리스트의 요소를 지정된 함수로 처리해주는 함수
