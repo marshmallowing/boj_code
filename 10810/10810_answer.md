@@ -53,3 +53,11 @@ for index, value in enumerate(a): enumerate에 리스트를 넣으면 for 반복
     38
     21
     53
+
+---
+
+    for j in array[start-1: end]:
+           j=num
+
+j에는 단순히 리스트의 값(숫자) 만이 인덱싱 될 뿐이지 리스트의 값 자체가 수정될 순 없음 
+***
